@@ -1,0 +1,6 @@
+.video-image{
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    color: #FF5775;
+}
