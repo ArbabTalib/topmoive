@@ -41,7 +41,10 @@ const item =[
                         </p>
 
                         <div className="footerCopyright">
-//                                 <small > Developed and Designed  by <a href="https://www.youtube.com/c/AzadMalikRohit" target="_blank" rel="noreferrer"></a>.</small> <br/>
+
+                             
+                                {/* <small > Developed and Designed by<a href="https://www.youtube.com/c/AzadMalikRohit" target="_blank" rel="noreferrer"></a>.</small> <br/> */}
+
                                 {
                             item.map((item)=>{
                                 return (
