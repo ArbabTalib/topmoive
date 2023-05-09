@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/topmoive/static/css/main.7cbad876.css",
-    "main.js": "/topmoive/static/js/main.c713d04f.js",
+    "main.js": "/topmoive/static/js/main.c4bbb1c8.js",
     "static/js/787.abe459c0.chunk.js": "/topmoive/static/js/787.abe459c0.chunk.js",
     "index.html": "/topmoive/index.html",
     "static/media/star.svg": "/topmoive/static/media/star.13b377fa5ea4feb2f92f.svg",
     "static/media/play.svg": "/topmoive/static/media/play.4e86d2c5733e2421284f.svg",
     "main.7cbad876.css.map": "/topmoive/static/css/main.7cbad876.css.map",
-    "main.c713d04f.js.map": "/topmoive/static/js/main.c713d04f.js.map",
+    "main.c4bbb1c8.js.map": "/topmoive/static/js/main.c4bbb1c8.js.map",
     "787.abe459c0.chunk.js.map": "/topmoive/static/js/787.abe459c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cbad876.css",
-    "static/js/main.c713d04f.js"
+    "static/js/main.c4bbb1c8.js"
   ]
 }
