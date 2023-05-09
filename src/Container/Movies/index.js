@@ -17,7 +17,7 @@ const  MoviesContainer = ()=>{
 
     const [pageno, setPageno] = useState(1)
     const [paginationno, setPaginationno] = useState(0)
-    const API_KEY = process.env.REACT_APP_NOT_SECRET_CODE;
+    const API_KEY = c82efe36f886f9f4ee17e977df32ddfe;
 
     
     const genreforURL = useGenres(selectedGenres)

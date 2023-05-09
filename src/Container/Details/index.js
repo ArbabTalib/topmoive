@@ -20,7 +20,7 @@ const DetailsContainer = ()=>{
     // console.log('params', params);
     const id = params.movieid || '';
     const _media_type = params && params.mediatype &&  params.mediatype !== '' ? params.mediatype.toLowerCase() : '';
-    const API_KEY = process.env.REACT_APP_NOT_SECRET_CODE;
+    const API_KEY = c82efe36f886f9f4ee17e977df32ddfe;
 
     const fetchData = async () =>{
         try{

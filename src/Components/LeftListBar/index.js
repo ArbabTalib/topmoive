@@ -15,7 +15,7 @@ const LeftListBarComponent = (
         }
 )=>{
 
-    const API_KEY = process.env.REACT_APP_NOT_SECRET_CODE;
+    const API_KEY = 'c82efe36f886f9f4ee17e977df32ddfe';
     
 
     const GetDataList = async ()=>{
